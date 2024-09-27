@@ -1,0 +1,15 @@
+{
+  "name": "service-ecommerce",
+  "version": "1.0.0",
+  "description": "API Service Ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "ecommerce"
+  ],
+  "author": "Amanda Prates Caetano",
+  "license": "ISC"
+}
